@@ -1,0 +1,19 @@
+div{
+  border: 10px solid transparent;
+  padding: 15px;
+  display: inline;
+  border-image: url(border.png) 30 round;
+  background-color: yellow;
+}
+
+br{
+  content: "";
+  margin: 10em;
+  display: block;
+  font-size: 24%;
+}
+
+body {
+ background-image: url("image (5).PNG"),url("image.jfif");
+ background-color: #cccccc;
+}
